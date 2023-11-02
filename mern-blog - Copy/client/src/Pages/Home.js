@@ -1,0 +1,22 @@
+import React from 'react'
+
+const Home = () => {
+  return (
+    <div className='mb-20'>
+     <h1 className='sm:text-4xl text-2xl font-bold my-6 text-gray-900'>Hello, Welcome to My Blog</h1>
+     <p className='mx-auto leading-relaxed text-based mb-4'>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in lectus id lorem mollis vestibulum. Proin id euismod arcu. Vestibulum luctus lectus eu vehicula bibendum. Donec ipsum sem, aliquet at enim quis, varius pellentesque nisl. Aliquam feugiat sapien luctus egestas posuere. Aliquam erat volutpat. Fusce feugiat risus vel nulla gravida, vitae pellentesque lacus volutpat. Nunc sit amet ligula et arcu maximus laoreet. Cras eleifend tristique fringilla. Phasellus quis ligula in ipsum imperdiet dignissim. Sed consequat magna id turpis facilisis cursus. Curabitur lobortis, justo at commodo suscipit, purus neque scelerisque magna, eu euismod sem lacus eu metus. In dictum urna quis pretium efficitur. Aenean at venenatis felis. Praesent et mollis enim.</p>
+
+      <p className='mx-auto leading-relaxed text-based mb-4' > Proin a efficitur dolor. Nulla facilisis nunc maximus consectetur tincidunt. Phasellus rhoncus tincidunt eros, non sodales nibh. Integer ut enim venenatis ante vehicula finibus. Mauris tempus nisi et tortor porttitor, vel cursus odio pellentesque. Nulla ultrices ante sed elit laoreet laoreet. Nunc ligula diam, blandit eu pretium quis, fringilla id erat. Praesent pulvinar tempus arcu id placerat. Mauris mi purus, consectetur non molestie sit amet, ornare eu arcu. Pellentesque viverra, dolor et vehicula aliquet, justo erat fermentum nisi, vitae sagittis quam leo vitae nisl. In aliquet tempus risus id pulvinar.</p>
+
+      <p className='mx-auto leading-relaxed text-based mb-4'> Donec a lectus sit amet justo volutpat tincidunt nec vel justo. Integer mattis metus sit amet ultricies scelerisque. Praesent eget porttitor odio. Vestibulum a sagittis neque, vel suscipit tellus. Proin et condimentum turpis. Morbi pellentesque ante eros, eget ornare sapien elementum ut. Nulla a rhoncus augue. Phasellus sodales erat ac facilisis porta. Aliquam vel cursus elit. Integer dignissim, dolor accumsan cursus tincidunt, velit nisi condimentum libero, a tincidunt mauris ante quis enim. Sed vitae nulla tellus. Vestibulum dignissim urna enim, sed fermentum est lobortis non. Nam sed orci at neque iaculis dignissim. Praesent id felis vel libero luctus congue vitae ac neque. Nulla at nisl suscipit, blandit lorem id, dictum erat. Fusce congue tincidunt dolor.</p>
+
+      <p className='mx-auto leading-relaxed text-based mb-4'>      In sed luctus sapien. Morbi pretium urna ac sem porta, vitae ullamcorper nisl vestibulum. Proin rhoncus in est eu porttitor. Quisque porttitor augue in odio accumsan finibus. Suspendisse condimentum nibh tellus, mollis malesuada ligula suscipit a. Aliquam quis molestie est. Vivamus vitae sem eu leo bibendum pharetra. Curabitur auctor lacus a volutpat scelerisque. Integer diam lectus, viverra sed euismod a, posuere id urna. Phasellus consequat congue lorem, ullamcorper vestibulum sapien tempor vitae. Etiam venenatis, odio vel finibus sodales, arcu nisl mollis diam, vitae auctor nisl turpis sed risus. Vestibulum quam velit, interdum sit amet ligula sit amet, scelerisque facilisis neque. In sit amet elit ac orci tempor euismod. Aliquam erat volutpat. Suspendisse pharetra finibus tempus. Proin varius ac nibh dictum convallis.
+
+              Morbi non aliquet metus. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet ligula eget quam bibendum congue. Cras id enim rhoncus, tristique purus nec, mollis neque. Sed sit amet neque ut eros laoreet faucibus. Donec interdum sapien vel purus cursus, sit amet suscipit quam porttitor. Quisque porttitor elementum vehicula. Mauris finibus tempus accumsan. Donec ex turpis, varius at nisi a, consequat viverra felis. Proin ultrices blandit nisi, et dictum lacus sagittis euismod. Fusce dapibus mauris nec libero aliquet aliquam. Proin non velit sed libero feugiat consequat at eu purus. Praesent in facilisis massa, eget facilisis lectus. Aenean vestibulum id purus a facilisis. Donec dolor magna, tempor quis mollis at, ultricies sed ex.</p>
+     
+    </div>
+  )
+}
+
+export default Home
